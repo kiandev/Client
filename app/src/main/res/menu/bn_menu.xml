@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="پروفایل"
+        android:id="@+id/item_profile"
+        android:icon="@drawable/profile"/>
+
+    <item
+        android:title="ویترین"
+        android:id="@+id/item_blog"
+        android:icon="@drawable/vitrin"/>
+
+    <item
+        android:title="دفاتر کار"
+        android:id="@+id/item_nemaye"
+        android:icon="@drawable/nemaye"/>
+
+    <item
+        android:title="صفحه اصلی"
+        android:id="@+id/item_home"
+        android:icon="@drawable/home"/>
+
+
+</menu>
